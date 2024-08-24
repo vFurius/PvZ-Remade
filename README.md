@@ -1,6 +1,6 @@
 # Plants vs. Zombies Remade PRE-ALFA 0.0.5/ACTUALIDAD<img src="https://github.com/vFurius/images/blob/main/trophy.png" alt="Trophy" width="50"/>
 
-![Plants vs. Zombies Remade](https://github-readme-stats.vercel.app/api/pin/?username=vFurius&repo=PvZ-Remade-Pre-Alfa-0.0.5&theme=nightowl&show_owner=true)
+![Plants vs. Zombies Remade](https://github-readme-stats.vercel.app/api/pin/?username=vFurius&repo=PvZ-Remade&theme=nightowl&show_owner=true)
 
 ## Descripción
 
