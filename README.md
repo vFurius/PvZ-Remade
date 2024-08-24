@@ -19,7 +19,7 @@ Plants vs. Zombies Remade es una recreación moderna del icónico juego de defen
 ## Tecnologías Utilizadas
 
 - **Motor de Juego**: Unity 2022.3.29f1
-- **Lenguajes**: C#, Asp.Net
+- **Lenguajes**: C#
 
 ## Instalación
 
@@ -33,8 +33,9 @@ Plants vs. Zombies Remade es una recreación moderna del icónico juego de defen
    - Abre el proyecto clonado a través de Unity Hub o seleccionando la carpeta del proyecto desde el menú de Unity.
 
 3. **Configuración**:
-   - Configura las rutas de tus assets si es necesario.
-   - Revisa la documentación interna para ajustar configuraciones específicas del proyecto.
+   - Configure las rutas de su assets si es necesario.
+   - Verifique la documentación interna para ajustar configuraciones específicas del proyecto.
+   - Verifique la ruta de instalación tanto de la carpeta del juego y del motor gráfico
 
 ## Uso
 
@@ -44,6 +45,10 @@ Plants vs. Zombies Remade es una recreación moderna del icónico juego de defen
 
 2. **Contribuye**:
    - Si deseas contribuir al proyecto, por favor revisa el [CONTRIBUTING.md](CONTRIBUTING.md) para obtener más detalles sobre cómo hacerlo.
+  
+## Posibles Errores 
+
+   - Actualmente no se encontraron errores al momento de ejecución.
 
 ## Capturas de Pantalla
 
