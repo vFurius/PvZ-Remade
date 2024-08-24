@@ -25,7 +25,7 @@ Plants vs. Zombies Remade es una recreación moderna del icónico juego de defen
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/vFurius/PvZ-Remade-Pre-Alfa-0.0.5.git
+   git clone https://github.com/vFurius/PvZ-Remade.git
    ```
 
 2. **Abre el proyecto en Unity**:
